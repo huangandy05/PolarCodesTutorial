@@ -1,6 +1,6 @@
 # Intuition Behind Polar Codes
 
-[Back to README](README.md) | [Next: Mathematical Foundations](02-mathematical-foundations.md)
+[Back to Home](index.md) | [Next: Mathematical Foundations](02-mathematical-foundations.md)
 
 ## Channel Coding in Plain Language
 
@@ -125,4 +125,3 @@ flowchart TB
 Polar codes work by creating synthetic bit-channels of unequal reliability. The encoder puts message bits in reliable positions and frozen known bits in unreliable positions. The decoder exploits the recursive structure and the known frozen bits to recover the message.
 
 > **Check your understanding:** Why is it useful to freeze the bad synthetic channels instead of trying to send information through all positions?
-

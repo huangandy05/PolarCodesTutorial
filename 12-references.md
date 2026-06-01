@@ -1,6 +1,6 @@
 # References and Reading List
 
-[Previous: Exercises](11-exercises.md) | [Back to README](README.md)
+[Previous: Exercises](11-exercises.md) | [Back to Home](index.md)
 
 This page lists starting points for deeper study. Some references are theoretical, while others are better for implementation or standards context.
 
@@ -128,4 +128,3 @@ Suggested search terms: `polar codes survey decoding construction`, `CRC aided S
 ## Suggested Next Steps
 
 Use this wiki in cycles: read one concept page, work one small exercise, then implement or test the idea. Start with \(N=4\) or \(N=8\), make the encoder and decoder agree in a noiseless setting, then add AWGN and measure BER and BLER. Once your simulation works, revisit channel construction and SCL decoding; that is where polar codes become both subtle and powerful.
-

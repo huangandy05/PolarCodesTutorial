@@ -58,7 +58,7 @@ Avoid assuming the reader already understands coding theory jargon. Define terms
 
 Create the following Markdown pages or sections:
 
-### 1. `README.md` — Overview and Learning Path
+### 1. `index.md` — Overview and Learning Path
 
 Include:
 
@@ -438,7 +438,7 @@ Return the full wiki content in Markdown.
 Use clear file boundaries like:
 
 ```markdown
-# README.md
+# index.md
 ...
 # 01-intuition.md
 ...
